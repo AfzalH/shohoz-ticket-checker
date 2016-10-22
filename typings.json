@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "request": "registry:dt/request#0.0.0+20160726020908"
+  }
+}
